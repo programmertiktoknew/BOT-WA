@@ -1,0 +1,15 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "description": "untuk bot wa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anggit",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.25.0"
+  }
+}
