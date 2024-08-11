@@ -9,6 +9,7 @@ const client = new Client({
     }
 })
 // ganti nomer bot
+// agar orang lain tidak bisa menggunakan bot selain nomer ini
 let myNumber = '620000000000' + '@c.us'
 
 client.on('loading_screen', (percent, message) => {
